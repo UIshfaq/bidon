@@ -16,6 +16,7 @@ public class HelloApplication extends Application {
         stage.setScene(scene);
         stage.show();
     }
+    int toto=8;
 
     public static void main(String[] args) {
         launch();
